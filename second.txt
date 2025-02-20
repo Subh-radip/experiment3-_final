@@ -1,3 +1,4 @@
 my father is a teacher
 hi my name is subhradip 
 i am from agartala, tripura
+this error is fixed
